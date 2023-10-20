@@ -1,0 +1,16 @@
+
+PSEUDOCODIGO:
+
+1. Definir una función llamada obtenerPaisMasLargo que reciba una matriz de países como parámetro.
+
+2. Inicializar una variable llamada paisMasLargo con una cadena vacía.
+
+3. Inicializar una variable llamada numeroDeLetras con cero.
+
+4. Recorrer la matriz de países con un bucle for.
+
+5. Dentro del bucle, comparar la longitud del país actual con la variable numeroDeLetras.
+
+6. Si la longitud del país actual es mayor, actualizar las variables paisMasLargo y numeroDeLetras con el país actual y su longitud, respectivamente.
+
+7. Al final del bucle, devolver el valor de la variable paisMasLargo.
